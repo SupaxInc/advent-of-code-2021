@@ -1,0 +1,26 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000d\u0000v\u0000e\u0000n\u0000t\u0000-\u0000o\u0000f\u0000-\u0000c\u0000o\u0000d\u0000e\u0000-\u00002\u00000\u00002\u00001\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./day1/part2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SupaxInc/advent-of-code-2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SupaxInc/advent-of-code-2021/issues"
+  },
+  "homepage": "https://github.com/SupaxInc/advent-of-code-2021#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
