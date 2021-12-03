@@ -13,5 +13,3 @@ arrInput.forEach((depth, i) => {
     }
     lastDepth = depth;
 });
-
-console.log(count);
