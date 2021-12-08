@@ -6,6 +6,7 @@ const arrInput = input.toString().split(",").map(Number);
 let arrLanternFishes = arrInput;
 
 // Yes, I figured out in part 2 that this is definitely the wrong implementation..
+// O(n) solution in part 2
 for(let i=0; i<80; i++) {
     let arrNewFishes = [];
     arrLanternFishes = arrLanternFishes.map((num, i) => {
